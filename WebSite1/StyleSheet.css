@@ -1,0 +1,28 @@
+﻿body {
+    background-image: url("IMAGE/download.jfif");
+}
+
+table{
+    background-color:yellow;
+
+}
+
+/*h1{
+    background-color:yellow;
+}*/
+
+#fount1{
+    font-size:30px;
+    color:yellow;
+}
+
+#fount2 {
+    background-color:lightgreen;
+    font-family:'Comic Sans MS'
+}
+
+#fount3 {
+    background-color: mintcream;
+    font-family: 'Rockwell'
+}
+
